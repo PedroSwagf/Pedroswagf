@@ -2,7 +2,7 @@
 
 💻 Higher Technician in **Networked Computer Systems Administration (ASIR)**  
 🎓 Currently studying **Web Application Development (DAW)**  
-⚙️ Experience in **IT Support & Helpdesk**  
+⚙️ Experience in **IT Helpdesk & Developer**  
 🚀 Focused on growing as a **Full Stack Developer**, combining **backend, frontend, and automation**.  
 🌱 Always learning and applying new technologies in real projects.
 
