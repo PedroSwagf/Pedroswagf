@@ -2,7 +2,7 @@
 
 💻 Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)**  
 🎓 Actualmente estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
-⚙️ Experiencia en **Soporte IT y Helpdesk**  
+⚙️ Experiencia en **Soporte IT,Helpdesk y Programación**  
 🚀 Enfocado en crecer como **Full Stack Developer**, combinando **backend, frontend y automatización**.  
 🌱 Aprendiendo cada día y aplicando nuevas tecnologías en proyectos reales.
 
@@ -56,7 +56,7 @@ Proyecto personal en Python orientado al aprendizaje.
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroswagf/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrofernandezchacon95@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfernandezch02@gmail.com)
 
 ---
 
