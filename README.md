@@ -2,7 +2,7 @@
 
 💻 Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)**  
 🎓 Actualmente estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
-⚙️ Experiencia en **Soporte IT y Helpdesk**  
+⚙️ Experiencia en **Soporte IT Helpdesk & Programación**  
 🚀 Enfocado en crecer como **Full Stack Developer**, combinando **backend, frontend y automatización**.  
 🌱 Aprendiendo cada día y aplicando nuevas tecnologías en proyectos reales.
 
