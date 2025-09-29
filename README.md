@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Pedro Manuel Fernández Chacón
 
-[![English](https://img.shields.io/badge/lang-English-blue)](README.en.md)
-[![Español](https://img.shields.io/badge/lang-Español-red)](README.md)
-
 💻 Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)**  
 🎓 Actualmente estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
-⚙️ Experiencia en **Soporte IT, Helpdesk y Programación**  
+⚙️ Experiencia en **Soporte IT y Helpdesk**  
 🚀 Enfocado en crecer como **Full Stack Developer**, combinando **backend, frontend y automatización**.  
 🌱 Aprendiendo cada día y aplicando nuevas tecnologías en proyectos reales.
+
+[![English](https://img.shields.io/badge/lang-English-blue)](README.en.md)
+[![Español](https://img.shields.io/badge/lang-Español-red)](README.md)
 
 ---
 
@@ -15,8 +15,10 @@
 
 ### 🌐 Lenguajes
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -42,11 +44,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 ## 🚀 Proyectos destacados
 
 🔹 [**Buena Vibra Remake**](https://github.com/PedferRodeira1/BuenaVibraRemake)  
 Aplicación web para un restaurante local en Moaña.  
-- **Stack:** Laravel + Vue 3 + Tailwind + Vite + Docker + npm  
+- **Stack:** Laravel + Vue 3 + Tailwind + Vite  
 - Sistema de gestión interna + frontend moderno.  
 
 🔹 [**Semaphoro-Playbooks**](https://github.com/PedferRodeira1/Semaphoro-Playbooks)  
@@ -70,8 +74,8 @@ Proyecto personal en **Python** orientado al aprendizaje.
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrofernandezch/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfernandezch02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroswagf/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrofernandezchacon95@gmail.com)  
 
 ---
 
