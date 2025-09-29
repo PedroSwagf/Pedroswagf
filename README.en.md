@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/img/perfil.jpg" alt="Pedro Manuel Fernández Chacón" width="200" style="border-radius:50%"/>
-</p>
-
 # 👋 Hi! I'm Pedro Manuel Fernández Chacón
 
 [![English](https://img.shields.io/badge/lang-English-blue)](README.en.md)
