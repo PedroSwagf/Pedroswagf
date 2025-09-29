@@ -1,5 +1,8 @@
 # 👋 ¡Hola! Soy Pedro Manuel Fernández Chacón
 
+[![English](https://img.shields.io/badge/lang-English-blue)](README.en.md)
+[![Español](https://img.shields.io/badge/lang-Español-red)](README.md)
+
 💻 Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)**  
 🎓 Actualmente estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
 ⚙️ Experiencia en **Soporte IT, Helpdesk y Programación**  
