@@ -11,7 +11,7 @@
 [![Español](https://img.shields.io/badge/lang-Español-red)](README.md)
 
 ---
-## 💼 Actualmente trabajando como Platform Support & DevOps Engineer donde me encargo de:
+## 💼 Platform Support & DevOps Engineer | Backend & Automation
 
 - ⚙️ Soporte técnico y troubleshooting sobre plataformas de clientes
 - 🐧 Administración de servidores Linux Ubuntu
