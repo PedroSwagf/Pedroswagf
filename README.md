@@ -1,6 +1,7 @@
 
 <img src="./bannerGithub.png" width="100%" />
-## 👋 ¡Hola! Soy Pedro Fernández 
+
+👋 ¡Hola! Soy Pedro Fernández 
 
 ⚙️ Platform Support & DevOps Engineer  
 💻 Técnico IT especializado en plataformas, automatización y desarrollo web.  
