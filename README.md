@@ -1,15 +1,17 @@
+<div align="center">
 <img src="./bannerGithub.png" width="100%" />
 # 👋 ¡Hola! Soy Pedro Manuel Fernández Chacón
 
 ⚙️ Platform Support & DevOps Engineer  
-💻 Técnico IT especializado en plataformas, automatización y tecnologías web.  
-🚀 Experiencia en soporte de aplicaciones, Linux/Ubuntu, Docker, bases de datos y entornos Laravel + Vue.js.  
+💻 Técnico IT especializado en plataformas, automatización y desarrollo web.  
+🐧 Linux • Docker • Azure • Laravel • Vue.js • Ansible
+🚀 Soporte, infraestructura y desarrollo backend en entornos reales  
 🎓 Técnico Superior en ASIR y actualmente estudiante de DAW.  
-🌱 En constante aprendizaje en backend, automatización e infraestructura.
 
 [![English](https://img.shields.io/badge/lang-English-blue)](README.en.md)
 [![Español](https://img.shields.io/badge/lang-Español-red)](README.md)
 
+</div>
 ---
 ## 💼 Platform Support & DevOps Engineer | Backend & Automation
 
