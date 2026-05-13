@@ -1,13 +1,25 @@
 # 👋 ¡Hola! Soy Pedro Manuel Fernández Chacón
 
-💻 Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)**  
-🎓 Actualmente estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
-⚙️ Experiencia en **Soporte IT Helpdesk & Programación**  
-🚀 Enfocado en crecer como **Full Stack Developer**, combinando **backend, frontend y automatización**.  
-🌱 Aprendiendo cada día y aplicando nuevas tecnologías en proyectos reales.
+⚙️ Platform Support & DevOps Engineer  
+💻 Técnico IT especializado en plataformas, automatización y tecnologías web.  
+🚀 Experiencia en soporte de aplicaciones, Linux/Ubuntu, Docker, bases de datos y entornos Laravel + Vue.js.  
+🎓 Técnico Superior en ASIR y actualmente estudiante de DAW.  
+🌱 En constante aprendizaje en backend, automatización e infraestructura.
 
 [![English](https://img.shields.io/badge/lang-English-blue)](README.en.md)
 [![Español](https://img.shields.io/badge/lang-Español-red)](README.md)
+
+---
+## 💼 Actualmente trabajando como Platform Support & DevOps Engineer donde me encargo de:
+
+- ⚙️ Soporte técnico y troubleshooting sobre plataformas de clientes
+- 🐧 Administración de servidores Linux Ubuntu
+- 🐳 Gestión de entornos Docker
+- 🔄 Automatización de tareas e infraestructura
+- 🗄️ Gestión y mantenimiento de bases de datos
+- 🌐 Colaboración en proyectos Laravel + Vue.js
+- 🔁 Control de versiones y flujos de trabajo con Git
+- ☁️ Administración de bases de datos en Azure (MySQL y NoSQL)
 
 ---
 
@@ -17,6 +29,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,6 +44,7 @@
 ### 🗄️ Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Azure DB](https://img.shields.io/badge/Azure_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### ⚡ Entorno & Build Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -43,6 +57,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -79,11 +94,13 @@ Proyecto personal en **Python** orientado al aprendizaje.
 
 ---
 
-## 🧭 En progreso
+## 🧭 Actualmente explorando
 
-- 🔹 Mejorando mis skills en **Vue 3 & Composition API**  
-- 🔹 Explorando **CI/CD** con Docker y GitHub Actions  
-- 🔹 Ampliando mi portfolio con proyectos **Full Stack**  
+- 🔹 Arquitecturas backend modernas con Laravel
+- 🔹 Automatización y CI/CD
+- 🔹 Docker & entornos containerizados
+- 🔹 Vue 3 & Composition API
+- 🔹 Platform Engineering & DevOps
 
 ---
 
