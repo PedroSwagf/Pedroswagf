@@ -14,7 +14,7 @@
 
 ---
 
-##💼 Platform Support & DevOps Engineer | Backend & Automation 
+## 💼 Platform Support & DevOps Engineer | Backend & Automation 
 
 - ⚙️ Soporte técnico y troubleshooting sobre plataformas de clientes
 - 🐧 Administración de servidores Linux Ubuntu
