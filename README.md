@@ -1,6 +1,6 @@
 
 <img src="./bannerGithub.png" width="100%" />
-# 👋 ¡Hola! Soy Pedro Manuel Fernández Chacón
+# 👋 ¡Hola! Soy Pedro Fernández 
 
 ⚙️ Platform Support & DevOps Engineer  
 💻 Técnico IT especializado en plataformas, automatización y desarrollo web.  
@@ -27,9 +27,9 @@
 
 ---
 
-##🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
-###🌐 Lenguajes
+### 🌐 Lenguajes
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,25 +39,25 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-###⚙️ Frameworks & Librerías
+### ⚙️ Frameworks & Librerías
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 
 
-###🗄️ Bases de datos
+### 🗄️ Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Azure DB](https://img.shields.io/badge/Azure_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-###⚡ Entorno & Build Tools
+### ⚡ Entorno & Build Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
- ###🛠️ DevOps & Herramientas
+ ### 🛠️ DevOps & Herramientas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -67,7 +67,7 @@
 ---
 
 
-🚀 Proyectos destacados
+## 🚀 Proyectos destacados
 
 🔹 [**Buena Vibra Remake**](https://github.com/PedferRodeira1/BuenaVibraRemake)  
 Aplicación web para un restaurante local en Moaña.  
@@ -85,29 +85,27 @@ Proyecto personal en **Python** orientado al aprendizaje.
 
 ---
 
-📊 Estadísticas de GitHub
-
+## 📊 Estadísticas de GitHub
 
 ![Pedro’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSwagf&show_icons=true&theme=tokyonight)  
 ![Top lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSwagf&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=PedroSwagf&theme=tokyonight&hide_border=true)
 
 ---
-
-📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrofernandezch)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfernandezch02@gmail.com)  
-
----
-
-🧭 Actualmente explorando
+## 🧭 Actualmente explorando
 
 - 🔹 Arquitecturas backend modernas con Laravel
 - 🔹 Automatización y CI/CD
 - 🔹 Docker & entornos containerizados
 - 🔹 Vue 3 & Composition API
 - 🔹 Platform Engineering & DevOps
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrofernandezch)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfernandezch02@gmail.com)  
 
 ---
 
