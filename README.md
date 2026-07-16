@@ -46,7 +46,7 @@ También colaboro en proyectos de desarrollo web, principalmente con **Laravel**
 <p align="left">
   <img
     src="https://go-skill-icons.vercel.app/api/icons?i=php,javascript,python,bash,powershell,html,css,json,yaml&theme=dark&titles=true&perline=9"
-    alt="Lenguajes y formatos"
+    alt="PHP, JavaScript, Python, Bash, PowerShell, HTML, CSS, JSON y YAML"
   />
 </p>
 
@@ -55,16 +55,16 @@ También colaboro en proyectos de desarrollo web, principalmente con **Laravel**
 <p align="left">
   <img
     src="https://go-skill-icons.vercel.app/api/icons?i=laravel,vuejs,tailwindcss,vuetify&theme=dark&titles=true&perline=4"
-    alt="Frameworks y librerías"
+    alt="Laravel, Vue.js, Tailwind CSS y Vuetify"
   />
 </p>
 
-### 🗄️ Bases de datos
+### 🗄️ Bases de datos y servicios cloud
 
 <p align="left">
   <img
     src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite,mongodb,azure&theme=dark&titles=true&perline=5"
-    alt="Bases de datos"
+    alt="MySQL, PostgreSQL, SQLite, MongoDB y Microsoft Azure"
   />
 </p>
 
@@ -73,7 +73,7 @@ También colaboro en proyectos de desarrollo web, principalmente con **Laravel**
 <p align="left">
   <img
     src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,vite,composer&theme=dark&titles=true&perline=4"
-    alt="Entorno y herramientas de construcción"
+    alt="Node.js, npm, Vite y Composer"
   />
 </p>
 
@@ -82,11 +82,13 @@ También colaboro en proyectos de desarrollo web, principalmente con **Laravel**
 <p align="left">
   <img
     src="https://go-skill-icons.vercel.app/api/icons?i=docker,ansible,linux,ubuntu,git,github,azure,githubactions&theme=dark&titles=true&perline=8"
-    alt="DevOps, sistemas y control de versiones"
+    alt="Docker, Ansible, Linux, Ubuntu, Git, GitHub, Microsoft Azure y GitHub Actions"
   />
 </p>
 
 ---
+
+
 
 ## 🚀 Proyectos destacados
 
