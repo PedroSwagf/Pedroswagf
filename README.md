@@ -43,47 +43,61 @@ También colaboro en proyectos de desarrollo web, principalmente con **Laravel**
 
 ### 🌐 Lenguajes
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=php,js,python,bash,powershell,html,css&theme=dark&perline=7"
+      alt="PHP, JavaScript, Python, Bash, PowerShell, HTML y CSS"
+    />
+  </a>
+</p>
 
 ### ⚙️ Frameworks y librerías
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=laravel,vue,tailwind,vuetify&theme=dark&perline=4"
+      alt="Laravel, Vue.js, Tailwind CSS y Vuetify"
+    />
+  </a>
+</p>
 
 ### 🗄️ Bases de datos
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Azure Database](https://img.shields.io/badge/Azure_Database-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=2"
+      alt="MySQL y SQLite"
+    />
+  </a>
+</p>
 
 ### ⚡ Entorno y herramientas de construcción
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=nodejs,npm,vite&theme=dark&perline=3"
+      alt="Node.js, npm y Vite"
+    />
+  </a>
+</p>
 
 ### 🛠️ DevOps, sistemas y control de versiones
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=docker,ansible,linux,ubuntu,git,github,azure&theme=dark&perline=7"
+      alt="Docker, Ansible, Linux, Ubuntu, Git, GitHub y Microsoft Azure"
+    />
+  </a>
+</p>
 
 ---
+
 
 ## 🚀 Proyectos destacados
 
