@@ -89,14 +89,56 @@ Proyecto personal en **Python** orientado al aprendizaje.
 
 ## 📊 Estadísticas de GitHub
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroSwagf&theme=tokyonight"
+    alt="Estadísticas de GitHub de Pedro"
+  />
+</p>
 
-[![Estadísticas de GitHub de Pedro](https://github-readme-stats.shion.dev/api?username=PedroSwagf&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/PedroSwagf)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroSwagf&theme=tokyonight"
+    alt="Estadísticas generales"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroSwagf&theme=tokyonight"
+    alt="Lenguajes por repositorio"
+  />
+</p>
 
-[![Lenguajes más usados](https://github-readme-stats.shion.dev/api/top-langs/?username=PedroSwagf&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/PedroSwagf?tab=repositories)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroSwagf&theme=tokyonight"
+    alt="Lenguajes más utilizados en commits"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroSwagf&theme=tokyonight&utcOffset=2"
+    alt="Horario más productivo"
+  />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PedroSwagf&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+## 🧰 Lenguajes y herramientas
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,git,github,vscode&theme=dark&perline=9"
+      alt="Lenguajes y herramientas"
+    />
+  </a>
+</p>
 
+## ⚙️ Frameworks y librerías
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,angular,tailwind,bootstrap,django,flask&theme=dark&perline=10"
+      alt="Frameworks y librerías"
+    />
+  </a>
+</p>
 
 ---
 ## 🧭 Actualmente explorando
