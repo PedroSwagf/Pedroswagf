@@ -1,111 +1,181 @@
-<img src="./bannerGithub.png" width="100%" />
+<img src="./bannerGithub.png" width="100%" alt="Pedro Fernández banner" />
 
-# 👋 Hi! I'm Pedro Fernández 
+# 👋 Hi! I'm Pedro Fernández
 
-⚙️ Platform Support & DevOps Engineer  
-💻 IT Technician specialized in platforms, automation and web development.  
+⚙️ **Platform Support & DevOps Engineer**  
+💻 IT technician specialized in platform support, automation, infrastructure and web development.  
 🐧 Linux • Docker • Azure • Laravel • Vue.js • Ansible  
-🚀 Support, infrastructure and backend development in real environments  
-🎓 Higher Technician in ASIR and currently studying DAW.  
+🚀 Experience in technical support, systems administration and backend development in real-world environments.  
+🎓 Higher Technician in Networked Computer Systems Administration and currently studying Web Application Development.
 
-[![English](https://img.shields.io/badge/lang-English-blue)](README.en.md)
-[![Español](https://img.shields.io/badge/lang-Español-red)](README.md)
-
----
-
-💼 Platform Support & DevOps Engineer | Backend & Automation
-
-- ⚙️ Technical support and troubleshooting on client platforms
-- 🐧 Linux Ubuntu server administration
-- 🐳 Docker environment management
-- 🔄 Task and infrastructure automation
-- 🗄️ Database management and maintenance
-- 🌐 Collaboration on Laravel + Vue.js projects
-- 🔁 Version control and workflows with Git
-- ☁️ Azure database administration (MySQL and NoSQL)
+<p>
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/Language-English-blue" alt="English README" />
+  </a>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Idioma-Español-red" alt="Spanish README" />
+  </a>
+</p>
 
 ---
 
-🛠️ Technologies & Tools
+## 💼 Professional profile
 
-🌐 Languages  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I work in platform support and DevOps, taking part in incident resolution, systems administration, process automation and infrastructure maintenance.
 
-⚙️ Frameworks & Libraries  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+I also collaborate on web development projects, mainly using **Laravel** and **Vue.js**, combining systems, backend and automation skills.
 
-🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Azure DB](https://img.shields.io/badge/Azure_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### Main responsibilities
 
-⚡ Environment & Build Tools  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-
-🛠️ DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- ⚙️ Technical support and troubleshooting for client platforms.
+- 🐧 Administration and maintenance of Ubuntu Linux servers.
+- 🐳 Management of Docker applications and environments.
+- 🔄 Automation of operational and infrastructure tasks.
+- 🗄️ Database administration and maintenance.
+- 🌐 Collaboration on projects developed with Laravel and Vue.js.
+- 🔁 Repository management and Git-based workflows.
+- ☁️ Administration of MySQL and NoSQL databases on Azure.
 
 ---
 
-🚀 Featured Projects
+## 🛠️ Technologies and tools
 
-🔹 [**Buena Vibra Remake**](https://github.com/PedferRodeira1/BuenaVibraRemake)  
-Web application for a local restaurant in Moaña.  
-- **Stack:** Laravel + Vue 3 + Tailwind + Vite  
-- Internal management system + modern frontend.  
+### 🌐 Languages and formats
 
-🔹 [**Semaphoro-Playbooks**](https://github.com/PedferRodeira1/Semaphoro-Playbooks)  
-**Ansible** playbooks for automation.  
-- Network scanning, hardware inventory, agent deployment, etc.  
-- Excel export and usage in real environments.  
+<p align="left">
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=php,javascript,python,bash,powershell,html,css,json,yaml&theme=dark&titles=true&perline=9"
+    alt="PHP, JavaScript, Python, Bash, PowerShell, HTML, CSS, JSON and YAML"
+  />
+</p>
 
-🔹 [**KonNichiwa**](https://github.com/PedferRodeira1/KonNichiwa)  
-Personal project in **Python** focused on learning.  
-- Practical exercises and practice programs.  
+### ⚙️ Frameworks and libraries
+
+<p align="left">
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=laravel,vuejs,tailwindcss,vuetify&theme=dark&titles=true&perline=4"
+    alt="Laravel, Vue.js, Tailwind CSS and Vuetify"
+  />
+</p>
+
+### 🗄️ Databases and cloud services
+
+<p align="left">
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite,mongodb,azure&theme=dark&titles=true&perline=5"
+    alt="MySQL, PostgreSQL, SQLite, MongoDB and Microsoft Azure"
+  />
+</p>
+
+### ⚡ Runtime and build tools
+
+<p align="left">
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,vite,composer&theme=dark&titles=true&perline=4"
+    alt="Node.js, npm, Vite and Composer"
+  />
+</p>
+
+### 🛠️ DevOps, systems and version control
+
+<p align="left">
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=docker,ansible,linux,ubuntu,git,github,azure,githubactions&theme=dark&titles=true&perline=8"
+    alt="Docker, Ansible, Linux, Ubuntu, Git, GitHub, Microsoft Azure and GitHub Actions"
+  />
+</p>
 
 ---
 
-📊 GitHub Stats
+## 🚀 Featured projects
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSwagf&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSwagf&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=PedroSwagf&theme=tokyonight&hide_border=true)
+### 🍽️ [Buena Vibra Remake](https://github.com/PedferRodeira1/BuenaVibraRemake)
+
+Web application developed for a local restaurant in Moaña.
+
+- **Stack:** Laravel, Vue 3, Tailwind CSS and Vite.
+- Internal management system.
+- Modern and responsive web interface.
+- Backend and frontend integration.
+
+### 💰 [Dracmas API](https://github.com/PedroSwagf/dracmas-api)
+
+Full-stack personal finance management application built with **FastAPI and Vue 3**.
+
+- Income, expense, debt and savings management.
+- Amortization schedules and early debt repayments.
+- Financial scenario comparison.
+- Estimated multi-payer Spanish income tax calculator.
+- API protected using API key authentication.
+- Testing with pytest and Playwright.
+
+**Stack:** Python · FastAPI · SQLAlchemy · Vue 3 · Pinia · Chart.js · SQLite
+
+### 🐍 [KonNichiwa](https://github.com/PedferRodeira1/KonNichiwa)
+
+Personal Python project focused on learning and practice.
+
+- Programming exercises.
+- Small applications and scripts.
+- Consolidation of Python fundamentals.
 
 ---
 
-📫 Contact
+## 📊 GitHub statistics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrofernandezch)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfernandezch02@gmail.com)  
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroSwagf&theme=tokyonight"
+    alt="Pedro Fernández GitHub profile summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroSwagf&theme=tokyonight"
+    alt="General GitHub statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroSwagf&theme=tokyonight"
+    alt="Languages by repository"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroSwagf&theme=tokyonight"
+    alt="Most used languages by commit"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroSwagf&theme=tokyonight&utcOffset=2"
+    alt="Most productive time"
+  />
+</p>
 
 ---
 
-🧭 Currently exploring
+## 🧭 Currently learning
 
-- 🔹 Modern backend architectures with Laravel
-- 🔹 Automation and CI/CD
-- 🔹 Docker & containerized environments
-- 🔹 Vue 3 & Composition API
-- 🔹 Platform Engineering & DevOps
+- 🔹 Modern backend architectures with Laravel.
+- 🔹 Infrastructure and process automation.
+- 🔹 Continuous integration and continuous delivery.
+- 🔹 Docker and containerized environments.
+- 🔹 Vue 3 and the Composition API.
+- 🔹 Platform Engineering and DevOps practices.
 
 ---
 
-> "Always learning, always improving."
+## 📫 Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/pedrofernandezch">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pfernandezch02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+> Automating processes, solving problems and building more reliable, efficient and maintainable platforms.
