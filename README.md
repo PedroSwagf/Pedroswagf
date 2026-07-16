@@ -89,8 +89,8 @@ Proyecto personal en **Python** orientado al aprendizaje.
 
 ## 📊 Estadísticas de GitHub
 
-![Pedro’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSwagf&show_icons=true&theme=tokyonight)  
-![Top lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSwagf&layout=compact&theme=tokyonight)  
+![Pedro’s GitHub stats](https://github-readme-extended.vercel.app/api?username=PedroSwagf&show_icons=true&theme=tokyonight)  
+![Top más lenguajes usados](https://github-readme-extended.vercel.app/api/top-langs/?username=PedroSwagf&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=PedroSwagf&theme=tokyonight&hide_border=true)
 
 ---
