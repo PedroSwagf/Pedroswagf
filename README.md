@@ -41,63 +41,52 @@ También colaboro en proyectos de desarrollo web, principalmente con **Laravel**
 
 ## 🛠️ Tecnologías y herramientas
 
-### 🌐 Lenguajes
+### 🌐 Lenguajes y formatos
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=php,js,python,bash,powershell,html,css&theme=dark&perline=7"
-      alt="PHP, JavaScript, Python, Bash, PowerShell, HTML y CSS"
-    />
-  </a>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=php,javascript,python,bash,powershell,html,css,json,yaml&theme=dark&titles=true&perline=9"
+    alt="Lenguajes y formatos"
+  />
 </p>
 
 ### ⚙️ Frameworks y librerías
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=laravel,vue,tailwind,vuetify&theme=dark&perline=4"
-      alt="Laravel, Vue.js, Tailwind CSS y Vuetify"
-    />
-  </a>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=laravel,vuejs,tailwindcss,vuetify&theme=dark&titles=true&perline=4"
+    alt="Frameworks y librerías"
+  />
 </p>
 
 ### 🗄️ Bases de datos
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=2"
-      alt="MySQL y SQLite"
-    />
-  </a>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite,mongodb,azure&theme=dark&titles=true&perline=5"
+    alt="Bases de datos"
+  />
 </p>
 
 ### ⚡ Entorno y herramientas de construcción
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=nodejs,npm,vite&theme=dark&perline=3"
-      alt="Node.js, npm y Vite"
-    />
-  </a>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,vite,composer&theme=dark&titles=true&perline=4"
+    alt="Entorno y herramientas de construcción"
+  />
 </p>
 
 ### 🛠️ DevOps, sistemas y control de versiones
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=docker,ansible,linux,ubuntu,git,github,azure&theme=dark&perline=7"
-      alt="Docker, Ansible, Linux, Ubuntu, Git, GitHub y Microsoft Azure"
-    />
-  </a>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=docker,ansible,linux,ubuntu,git,github,azure,githubactions&theme=dark&titles=true&perline=8"
+    alt="DevOps, sistemas y control de versiones"
+  />
 </p>
 
 ---
-
 
 ## 🚀 Proyectos destacados
 
