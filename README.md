@@ -101,15 +101,19 @@ Aplicación web desarrollada para un restaurante local de Moaña.
 - Interfaz web moderna y adaptable.
 - Integración entre backend y frontend.
 
-### 🤖 [Semaphoro Playbooks](https://github.com/PedferRodeira1/Semaphoro-Playbooks)
+### 💰 [Dracmas API](https://github.com/PedroSwagf/dracmas-api) 
 
-Colección de playbooks de Ansible orientados a la automatización de tareas técnicas.
+Aplicación full stack de gestión financiera personal construida con **FastAPI y Vue 3**.
 
-- Escaneo y reconocimiento de red.
-- Recopilación de inventario de hardware.
-- Despliegue automatizado de agentes.
-- Exportación de resultados a Excel.
-- Aplicación en entornos reales.
+* Ingresos, gastos, deudas y fondos de ahorro.
+* Cuadros de amortización y pagos anticipados.
+* Comparador de escenarios financieros.
+* Calculadora estimativa de IRPF multi-pagador.
+* API protegida mediante API key.
+* Testing con pytest y Playwright.
+
+**Stack:** Python · FastAPI · SQLAlchemy · Vue 3 · Pinia · Chart.js · SQLite
+
 
 ### 🐍 [KonNichiwa](https://github.com/PedferRodeira1/KonNichiwa)
 
